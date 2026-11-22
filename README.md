@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=95&section=header&text=Harsh%20Dev&fontSize=32&fontColor=f0f6fc&fontAlign=50&fontAlignY=40&desc=Data%20Analytics%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI&descSize=14&descColor=7d8590&descAlign=50&descAlignY=70" width="100%" />
+<img src="./header.svg" alt="Harsh Dev — Data Analytics" width="100%" />
 
 > **Currently:** Final-year MCA (AI & ML) student at JIET, Jodhpur — open to **Data Analyst** roles & internships starting **December 2026**.
 
